@@ -9,6 +9,8 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
+google_analytics: UA-159922407-1
+
 disqus:
   shortname: luke-biel-github-io
 

@@ -58,7 +58,7 @@ If the sounds a bit odd it's because it's in polish. We've again worked a bit wi
 This game came out in two versions, PC where you used all keyboards, pads, buttons attached to your PC to create a sequence which your opponent cannot reproduce, and a mobile one, which had colorful blocks and required you to follow the same rules, just on your phone screen.  
 [<img src="https://img.itch.zone/aW1hZ2UvNDUzNTkxLzIzMDYyMDYucG5n/original/nWtA%2Fj.png" width="375" height="195">](https://dotpoozer.itch.io/simonsays-versus)
 
-### Simon Says - versus
+### Accessible dungeon
 This one's interesting production as it was my first contact with game for people with disabilities. We've produced a game that allows people with vision impairment to play it. It's color palette should allow colorblind players to *see* everything that a player with normal vision would, not like in other games, where some objects may be indistinguishable from the environment. Moreover, game uses sound to guide player - therefore someone with weak vision, or even blind can play it as well.  
 [<img src="https://img.itch.zone/aW1nLzI3MzcxMTAucG5n/315x250%23c/KOjEfX.png" width="375" height="195">](https://dotpoozer.itch.io/accessible-dungeon)
 

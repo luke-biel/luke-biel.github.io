@@ -24,8 +24,17 @@ My first game jam and in fact won one. Back in 2016 I've attended TK Game Jam or
 After TK I've gone to Warsaw for another game jam, where we've gone a little bit experimental. Theme was **90s**, we were 3 programmers, but two of us started doing graphics which left me to do all the programming. It came out weird, we've used a lot of pixel lighting, and in the end, game which we wanted to present on a phone had glitchy shaders on tha platform, so we've settled with PC.  
 [<img src="https://img.itch.zone/aW1hZ2UvNzg2ODgvMzY5MzM2LmdpZg==/347x500/lRFyAO.gif" width="357" height="195" />](https://dotpoozer.itch.io/i-am-cat)
 
+### dziady
+Dziady was made for a game jam in Theatre of Poznan. It it loosely based on Adam Mickiewicz book, *dziady pt. 2*. It is asynchronous cooperation, where we have to collaborate between player playing platformer characters and a 'hand' that helps player reach finish lane. Hand can use special skills, but only when beat of the music is hit.  
+[<img src="https://img.itch.zone/aW1nLzMwODMwMzIucG5n/315x250%23c/UnAank.png" width="357" height="195" />](https://img.itch.zone/aW1nLzMwODMwMzIucG5n/315x250%23c/UnAank.png)
+
 ## 2017
 [↑ back up](#top)
+
+### SCP-35
+SCP is an internet pasta about a facility that functions somewhat like Men in Black, but a bit more realistic and, kinda more professional. I've based one of my games loosely on that universe. The game is about containment breach in a submarine located faculty. You play in co-op as two scientist that are trying to contain the SCPs let loose.  
+[<img src="https://img.itch.zone/aW1nLzMwODI5NjUucG5n/315x250%23c/oUv1Pc.png" width="357" height="195" />](https://dotpoozer.itch.io/scp-35)
+
 ### Flood
 This was first game jam I've been helping organize. I didn't intend to make game during it, but it happened somewhat randomly, when I was toying with physics based dungeon generation (if you try out the game you'll notice that it takes some time to generate level - it's caused by physics engine doing it's thing). Game was done by 10 on saturday, when I started coding it around 22 on friday. It was crazy night, *VEEERY* engaging flow. I may revisit it in the future as the idea is quite simple, and feedback was actually really positive.  
 [<img src="https://img.itch.zone/aW1hZ2UvMTI0NTQ5LzU3NDcxMS5wbmc=/315x250%23c/RSZnSY.png" width="357" height="195" />](https://dotpoozer.itch.io/regue-environment)
@@ -40,6 +49,10 @@ After the Nordic happened next edition of Slavic Game jam and in this one we've 
 
 ## 2018
 [↑ back up](#top)
+### Hot bits
+For Global Game Jam 2018 I've created a short game about shooting each other with guns that have **0** and **1** bullets. That's it. Our graphic really put heart into character portraits and what came out was good couch top-down shooter.  
+<img src="https://doc-00-18-docs.googleusercontent.com/docs/securesc/rfc00832s7pj6mofuqiup7lbq5gumdk3/ci4veco385n86ircij85p49std0pfj78/1583796225000/08839668082810987044/08839668082810987044/1xFItJ-dH9frAslEPEV9KJ0QHlccutSX6?e=view&authuser=0&nonce=5cm7jhn9e4t2q&user=08839668082810987044&hash=21psmtrtpd1qs426vbivlf57m3jman8h" width="357" height="195">
+
 ### Animal Tower
 2018 brought much more polished games than previous years. First I've collaborated with Paweł and Wiola on Animal tower on Google/Huuge games game jam 3u-2o. Game came out practically finished, with nice mechanic of steering a sled with animals that may fall off if you drive too recklessly.
 [<img src="https://img.itch.zone/aW1nLzEzNDM1MTgucG5n/original/HumQpj.png" width="375" height="195" />](https://velskicom.itch.io/animaltower)

@@ -46,7 +46,7 @@ After the Nordic happened next edition of Slavic Game jam and in this one we've 
 
 ### Cosmic chimp
 Have you ever played minigame in Bioshock, where you need to connect pipes so the flow of water is continuous? How about a PvP version of that. Well, cosmic chimp is all that. With team of five we've managed to put up quite a game.  
-[<img src="https://img.itch.zone/aW1hZ2UvMjgxOTc4LzEzNzA5MTAucG5n/original/2OWwRf.png" width="375" height="195">](https://img.itch.zone/aW1hZ2UvMjgxOTc4LzEzNzA5MTAucG5n/original/2OWwRf.png)
+[<img src="https://img.itch.zone/aW1hZ2UvMjgxOTc4LzEzNzA5MTAucG5n/original/2OWwRf.png" width="375" height="195">](https://dmchimiboy.itch.io/cosmic-chimp)
 
 ## 2019
 [↑ back up](#top)

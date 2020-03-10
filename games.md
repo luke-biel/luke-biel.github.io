@@ -42,7 +42,7 @@ After TK I've gone to Warsaw for another game jam, where we've gone a little bit
 
 ### dziady
 Dziady was made for a game jam in Theatre of Poznan. It it loosely based on Adam Mickiewicz book, *dziady pt. 2*. It is asynchronous cooperation, where we have to collaborate between player playing platformer characters and a 'hand' that helps player reach finish lane. Hand can use special skills, but only when beat of the music is hit.  
-[<img src="/images/games/d.png" width="357" height="195" />](https://img.itch.zone/aW1nLzMwODMwMzIucG5n/315x250%23c/UnAank.png)
+[<img src="/images/games/d.png" width="357" height="195" />](https://dotpoozer.itch.io/dziady)
 
 ## 2017
 [↑ back up](#top)

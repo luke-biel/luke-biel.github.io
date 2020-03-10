@@ -33,65 +33,67 @@ My games made in the course of several years:
 ## 2016
 [↑ back up](#top)
 ### Ten Dead Men
-My first game jam and in fact won one. Back in 2016 I've attended TK Game Jam organized by a group on University of Technology in Wroclaw. Game came out really good. Main mechanic was that you had to use your dead bodies as platforms in order to progress in levels. That, added with time limit for each of lives (**10 seconds** was a game jam theme) created quite unique mechanic.  
+My first game jam game ever. Back in 2016 I've attended TK Game Jam organized in Wrocław University of Technology. In game you are steering a character that has 10 seconds to live, and when he dies, he leaves his body at death point, so he's able to use it as new platform.  
 [<img src="/images/games/tdm.jpg" width="357" height="195" />](https://kbobnis.itch.io/ten-dead-men) 
 
 ### The silence of the cat
-After TK I've gone to Warsaw for another game jam, where we've gone a little bit experimental. Theme was **90s**, we were 3 programmers, but two of us started doing graphics which left me to do all the programming. It came out weird, we've used a lot of pixel lighting, and in the end, game which we wanted to present on a phone had glitchy shaders on tha platform, so we've settled with PC.  
+On 2016 Slavic Game Jam we created a game about cat with special powers. Player would steer the animal to points where evil energy was stored and had to celanese them. It was loosely inspired on the idea presented in RPG *Cat* by *John Wick*. We've used a bit too many pixel shaders and therefore had to produce PC game instead of intended mobile.  
 [<img src="/images/games/tsotc.gif" width="357" height="195" />](https://dotpoozer.itch.io/i-am-cat)
 
 ### dziady
-Dziady was made for a game jam in Theatre of Poznan. It it loosely based on Adam Mickiewicz book, *dziady pt. 2*. It is asynchronous cooperation, where we have to collaborate between player playing platformer characters and a 'hand' that helps player reach finish lane. Hand can use special skills, but only when beat of the music is hit.  
+Dziady was a game made for a Game Jam in Theatre in Poznan. It it loosely based on *Adam Mickiewicz* book, *dziady pt. 2*. It is asynchronous co-op, where one player tries to reach end in standard platformer way, and other has to use special powers to help him (eg. move boxes that block characters path).  
 [<img src="/images/games/d.png" width="357" height="195" />](https://dotpoozer.itch.io/dziady)
 
 ## 2017
 [↑ back up](#top)
 
 ### SCP-35
-SCP is an internet pasta about a facility that functions somewhat like Men in Black, but a bit more realistic and, kinda more professional. I've based one of my games loosely on that universe. The game is about containment breach in a submarine located faculty. You play in co-op as two scientist that are trying to contain the SCPs let loose.  
+[Secure Contain Protect] is a website that gathers many official-looking documents about unnatural events and entities. In SCP-35 game we put ourselves in place of two scientists who are trying to contain a breach in underwater, submarine research facility.  
 [<img src="/images/games/s35.png" width="357" height="195" />](https://dotpoozer.itch.io/scp-35)
 
 ### Flood
-This was first game jam I've been helping organize. I didn't intend to make game during it, but it happened somewhat randomly, when I was toying with physics based dungeon generation (if you try out the game you'll notice that it takes some time to generate level - it's caused by physics engine doing it's thing). Game was done by 10 on saturday, when I started coding it around 22 on friday. It was crazy night, *VEEERY* engaging flow. I may revisit it in the future as the idea is quite simple, and feedback was actually really positive.  
+Flood was created in span of 10 hours due to me testing pseudo-random dungeon generation based on physics engine. It happened during 3rd edition of TK Game Jam, where I was helping in organization. Game is targeted for mobile platforms, you try to run away from water that's flooding your lands. Longer you survive, more points you'll get.  
 [<img src="/images/games/f.png" width="357" height="195" />](https://dotpoozer.itch.io/regue-environment)
 
 ### Eldrich depth
-In 2017 I went to Denmark to attend **Nordic Game Jam**. Funny thing *Baba is you* won this exact jam, so competition was real. We were invited by Unity, visited their office in Copenhagen, had really nice time. And came u[ with async coop game where one player is completely blind. This is also a project I'd love to revisit in the future as the feeling when you were playing the game, listening to someone else whispering you commands and trying to hear if monster is coming to you were creating a really, really dense horror atmosphere.  
+Game was created as Nordic Game Jam entry. It's asynchronous co-op, where one player is completely blind and must rely on his hearing to progress through level, and the other player has power over 'control room' where he sees map, can control doors and can talk to the blind player, helping him navigate.  
 [<img src="/images/games/ed.png" width="357" height="195" />](https://supmike.itch.io/eldritch-depth)
 
 ### TwrDfns
-After the Nordic happened next edition of Slavic Game jam and in this one we've (me and my friend Kuba) came up with a tower defense game where environment changes periodically. Not everything worked as expected, but hey, it's a jam, you gotta fail sometimes.  
+Entry to Slavic Game Jam, game is classical tower defense with a twist. Usually tower defense games have static terrain, however in *TwrDfns* the terrain constantly changes, giving enemies new pathways.  
 [<img src="/images/games/td.png" width="357" height="195" />](https://dotpoozer.itch.io/twrdfns)
 
 ## 2018
 [↑ back up](#top)
 ### Hot bits
-For Global Game Jam 2018 I've created a short game about shooting each other with guns that have **0** and **1** bullets. That's it. Our graphic really put heart into character portraits and what came out was good couch top-down shooter.  
+How about a small game about two ladies firing bullets at each other in attempt to overflow or underflow you *health* counter? Well, that's *hot bits*. Game was created for Global Game Jam.  
 <img src="/images/games/hb.png" width="357" height="195">
 
 ### Animal Tower
-2018 brought much more polished games than previous years. First I've collaborated with Paweł and Wiola on Animal tower on Google/Huuge games game jam 3u-2o. Game came out practically finished, with nice mechanic of steering a sled with animals that may fall off if you drive too recklessly.
+Huuuge Games organized a game jam in collaboration with Google, on which we've created game about cute animals driving a sled downhill. The more animals you had, the higher points multiplier would be. Game was targeted at mobile phones.  
 [<img src="/images/games/at.png" width="375" height="195" />](https://velskicom.itch.io/animaltower)
 
 ### Cosmic chimp
-Have you ever played minigame in Bioshock, where you need to connect pipes so the flow of water is continuous? How about a PvP version of that. Well, cosmic chimp is all that. With team of five we've managed to put up quite a game.  
+Have you ever played minigame in Bioshock, where you need to connect pipes so the flow of water is continuous? How about a PvP version of that. Well, cosmic chimp is all that. With team of five we've managed to put up quite a game for Slavic Game Jam.  
 [<img src="/images/games/cc.png" width="375" height="195">](https://dmchimiboy.itch.io/cosmic-chimp)
 
 ## 2019
 [↑ back up](#top)
 ### swoboda ruchów
-If the sounds a bit odd it's because it's in polish. We've again worked a bit with pixel shaders and physics to create game where cops need to put a body in a contour. Was fun, especially when many different poses were added to the game.  
+Again we've worked a bit with pixel shaders and physics to create game where cops need to put a body in a contour. Was fun, especially when many different poses were added to the game, some of which required you to separate victims body parts from each other - just so the contour fits. This was TK Game Jam entry.  
 [<img src="/images/games/sr.png" width="375" height="195">](https://dotpoozer.itch.io/swoboda-ruchw)
 
 ### Simon Says - versus
-This game came out in two versions, PC where you used all keyboards, pads, buttons attached to your PC to create a sequence which your opponent cannot reproduce, and a mobile one, which had colorful blocks and required you to follow the same rules, just on your phone screen.  
+On Slavic Game Jam we wanted to incorporate as many controllers as we could. So we came up with a game where player would create a sequence of buttons, and others playing with him would need to repeat it and expand it with their own choosing. We've also created mobile version of the game, with tiles which you'd need to press.  
 [<img src="/images/games/ssv.png" width="375" height="195">](https://dotpoozer.itch.io/simonsays-versus)
 
 ### Accessible dungeon
-This one's interesting production as it was my first contact with game for people with disabilities. We've produced a game that allows people with vision impairment to play it. It's color palette should allow colorblind players to *see* everything that a player with normal vision would, not like in other games, where some objects may be indistinguishable from the environment. Moreover, game uses sound to guide player - therefore someone with weak vision, or even blind can play it as well.  
+PGG Jam was targeted at games for people with disabilities. We've created a game in which you could use 3d sound to traverse the level. Additionally we used color pallette that should allow people with any kind of daltonism to play.  
 [<img src="/images/games/ad.png" width="375" height="195">](https://dotpoozer.itch.io/accessible-dungeon)
 
 ## 2020
 [↑ back up](#top)  
 
 There's nothing there yet
+
+[Secure Contain Protect]: http://www.scp-wiki.net/

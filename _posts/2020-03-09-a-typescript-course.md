@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Writing a trello client"
-categories: misc
+category: technology
 comments: true
 ---
 

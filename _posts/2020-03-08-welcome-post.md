@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to my tech blog"
-categories: misc
+category: misc
 comments: true
 ---
 

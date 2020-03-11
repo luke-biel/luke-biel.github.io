@@ -178,7 +178,7 @@ chalk`{red ...there's nothing being worked on currently}`
 
 The final result looks like this:
 
-![Trollo](/images/2020-03-09-a-typescript-course/usage.png)
+![Trollo]({{ site.url }}/images/2020-03-09-a-typescript-course/usage.png)
 
 #### Conclusion
 

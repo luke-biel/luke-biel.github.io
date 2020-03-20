@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: luke-biel.github.io
+Token: 7b6e3b430ac0750d8807f461d979ce3db6474a32e3ed066f5f57069c9b8ba2e7

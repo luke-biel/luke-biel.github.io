@@ -28,3 +28,6 @@ plugins:
 feed:
   categories:
     - technology
+
+include:
+  - .well-known/brave-rewards-verification.txt

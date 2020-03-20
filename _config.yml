@@ -31,3 +31,5 @@ feed:
 
 include:
   - ".well-known"
+  - games.md
+  - index.md

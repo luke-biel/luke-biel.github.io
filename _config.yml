@@ -30,4 +30,4 @@ feed:
     - technology
 
 include:
-  - .well-known/brave-rewards-verification.txt
+  - ".well-known"

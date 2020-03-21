@@ -5,20 +5,26 @@ category: technology
 comments: true
 ---
 
-#### Or how I picked up typescript
+ Or how I picked up typescript.
+
+Contents:
+ * TOC
+ {:toc}
+
+# The project
 
 I pick up new projects quite often. To balance the chaos I have numerous [trello] boards. Each of them represents project or idea that I work on, or intend to work on. To organize them, I've created a tool that shows you (from across all of your boards) what tasks have you **In Progress** and some of those that you can pick up from **To Do**.
 
-###### Disclaimer
+### What this article is?
 
 This article is more of a technical walk-through than case study with specific code in mind. If you are interested in viewing *how* I structured the code, you may visit my [repo].
 
-#### Why typescript?
+# Why typescript?
 
 Other languages I've considered were *bash*, *python* and *ruby*. Apart for my personal desire to learn *JS* and *nodejs*, *TypeScript* stood out by being type safe **AND** by providing non-nullability by design. I got used to explicit "null" types when I started writing my applications in *Rust*.  
 Additionally *TypeScript* was supplying me with whole *nodejs* ecosystem and libraries.
 
-#### Setting up
+# Setting up
 
 *TypeScript* can be seamlessly integrated with *npm* environment.  
 First we create new npm package `npm init`. This should prompt us with package creator:
@@ -89,7 +95,7 @@ Running it with `npm run build && npm run app` results in:
 Hello, world!
 ```
 
-#### Integrating with trello
+# Integrating with trello
 
 Trello provides REST api via url <https://api.trello.com/1>.
 
@@ -169,7 +175,7 @@ This purpose fulfils `/lists/$ID/cards` endpoint. Example response:
 
 With all that information collected in DTOs we can now start drawing it!
 
-#### Drawing on terminal
+# Drawing on terminal
 
 I've tested some of the available [tui]s but none was feeling right, therefore I've settled down with plain *chalk*. *chalk* is a library that allows you to paint text in easy way, by using template strings.
 ```typescript
@@ -180,13 +186,13 @@ The final result looks like this:
 
 ![Trollo]({{ site.url }}/images/2020-03-09-a-typescript-course/usage.png)
 
-#### Conclusion
+# Conclusion
 
 [repo]
 
 I'm quite shocked how easy to use, yet so powerful typescript is. It's language that I feel quite comfortable writing in, which I haven't said about anything since the time I started programming in *rust* and *haskell*.  
   
-###### About application
+### About application
 
 It works. It even displays useful information, so that's a success. However...  
   

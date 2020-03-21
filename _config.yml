@@ -33,3 +33,5 @@ include:
   - ".well-known"
   - games.md
   - index.md
+
+markdown: kramdown

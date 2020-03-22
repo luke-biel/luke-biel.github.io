@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The sweet marriage of Rust and Unity"
+title: "The marriage of Rust and Unity"
 category: technology
 comments: true
 ---

@@ -6,27 +6,8 @@ permalink: /games/
 
 My games made in the course of several years:
 
-## Table of Contents
-
-* [2016](#2016)
-    * [Ten Dead Men](#ten-dead-men)
-    * [The silence of the cat](#the-silence-of-the-cat)
-    * [dziady](#dziady)
-* [2017](#2017)
-    * [SCP-35](#scp-35)
-    * [Flood](#flood)
-    * [Eldrich depth](#eldrich-depth)
-    * [TwrDfns](#twrdfns)
-* [2018](#2018)
-    * [Hot bits](#hot-bits)
-    * [Animal Tower](#animal-tower)
-    * [Cosmic chimp](#cosmic-chimp)
-* [2019](#2019)
-    * [swoboda ruchów](#swoboda-ruchów)
-    * [Simon Says - versus](#simon-says---versus)
-    * [Accessible dungeon](#accessible-dungeon)
-* [2020](#2020)
-    * slowly brewing...
+* TOC
+{:toc}
 
 <hr>
 

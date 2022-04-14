@@ -7,7 +7,6 @@
 #
 layout: home
 ---
-This blog is part of [kblb](https://kblb.github.io) group. Every article about tech is cross-posted there.
 
 Posts
 ===

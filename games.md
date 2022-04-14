@@ -74,7 +74,7 @@ PGG Jam was targeted at games for people with disabilities. We've created a game
 
 ## 2020-2021
 
-Nothing (You know why :|)
+Nothing `:|`
 
 ## 2022
 [↑ back up](#top)

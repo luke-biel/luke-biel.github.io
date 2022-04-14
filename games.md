@@ -72,9 +72,14 @@ On Slavic Game Jam we wanted to incorporate as many controllers as we could. So 
 PGG Jam was targeted at games for people with disabilities. We've created a game in which you could use 3d sound to traverse the level. Additionally we used color pallette that should allow people with any kind of daltonism to play.  
 [<img src="/images/games/ad.png" width="375" height="195">](https://dotpoozer.itch.io/accessible-dungeon)
 
-## 2020
-[↑ back up](#top)  
+## 2020-2021
 
-There's nothing there yet
+Nothing (You know why :|)
+
+## 2022
+[↑ back up](#top)
+### Burning spirit
+Ludum Dare #50 entry. I've made this game along with 3 friends. Somehow, despite our scope being over the roof, we managed to finish it 100%. Only there was not much time for playtesting and that's why the game mechanics are rather... unbalanced. Nevertheless I'm quite proud of it.  
+[<img src="/images/games/ld50.jpeg" width="375" height="195">](https://adnovac.itch.io/burning-spirit)
 
 [Secure Contain Protect]: http://www.scp-wiki.net/

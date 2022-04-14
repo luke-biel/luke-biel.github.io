@@ -7,6 +7,3 @@
 #
 layout: home
 ---
-
-Posts
-===

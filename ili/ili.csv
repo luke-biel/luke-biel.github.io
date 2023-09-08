@@ -1,18 +1,4 @@
-"Log Distance
-[m]";"Latitude  
-[dd:mm:ss.fff]";"Longitude  
-[dd:mm:ss.fff]";"Height WGS84 Datum 
-[m]";"Feature (Component/Anomaly)
- Type";Feature (Component/Anomaly) Identification;"Girth weld/Joint 
-Nr.";"Up stream weld at 
-[m]";"Joint/Component length
- [m]";Joint Manufacturing Type *;Longitudinal seam weld orientation [o'clock];"Nominal thickness *
-[mm]";"Rel. dis. To upstream weld 
-[m]";"Anomaly orientation 
-[o'clock]";Surface location;"Original length 
-[mm]";"Original width 
-[mm]";"Original max depth 
-[%]";Comment
+"Log Distance [m]";"Latitude [dd:mm:ss.fff]";"Longitude [dd:mm:ss.fff]";"Height WGS84 Datum [m]";"Feature (Component/Anomaly) Type";Feature (Component/Anomaly) Identification;"Girth weld/Joint Nr.";"Up stream weld at [m]";"Joint/Component length [m]";Joint Manufacturing Type *;Longitudinal seam weld orientation [o'clock];"Nominal thickness *[mm]";"Rel. dis. To upstream weld [m]";"Anomaly orientation [o'clock]";Surface location;"Original length [mm]";"Original width [mm]";"Original max depth [%]";Comment
 -12,155;;;;;Launch;;;;;;;;;;;;;Launch
 -11,433;;;;;Poss_Inst;;;;;06:00;;;;;;;;Poss_Inst
 -10,544;;;;WELD;Poss_Inst;;;;;06:00;;;;;;;;Poss_Inst
